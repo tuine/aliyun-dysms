@@ -3,8 +3,12 @@
 阿里云compser安装aliyuncs/aliyun-dysms-php-sdk不存在，建立用于composer安装，仅包含核心文件。
 
 ## composer 安装
-`composer require tuine/aliyun-dysms`
-使用Demo:
+`composer require tuine/aliyun-dysms  
+使用Demo:  
+[官网例子](https://github.com/tuine/aliyun-dysms/blob/master/demo/SmsDemo.php)
+[TP5封装方法例子](https://github.com/tuine/aliyun-dysms/blob/master/demo/thinkphp5_common.php)
+
+
 
 
 
